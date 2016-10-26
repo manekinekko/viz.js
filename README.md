@@ -2,21 +2,15 @@
 
 This project is a Makefile for building Graphviz with Emscripten and a simple wrapper for using it in the browser.
 
-## DEPRECATED
+## NOTE
 
-Viz.js is deprecated. You are welcome to fork the project.
-
+I am not the author of this project. The original author has deprecated this tool and asked to fork it.
+See original project here: [https://github.com/mdaines/viz.js](https://github.com/mdaines/viz.js).
 ## Getting Viz.js
-
-Install with Bower:
-
-    bower install viz.js
 
 Or with npm:
 
-    npm install viz.js
-
-Or download the `viz.js` "binary" from the [releases page](https://github.com/mdaines/viz.js/releases).
+    npm install @manekinekko/viz.js
 
 ## API
 
